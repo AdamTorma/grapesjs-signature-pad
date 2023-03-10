@@ -1,6 +1,6 @@
 export default {
   "grapesjs-signature-pad": {
     name: "Unterschriftsfeld",
-    "call-to-action": "Bitte hier unterschreiben"
+    "call-to-action": "Bitte hier unterschreiben",
   },
 };
